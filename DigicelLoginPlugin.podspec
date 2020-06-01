@@ -22,9 +22,8 @@ Pod::Spec.new do |s|
 
     c.dependency 'ZappPlugins'
     c.dependency 'ApplicasterSDK'
+    c.dependency 'CleengLogin'
     c.dependency 'Alamofire'
-    c.dependency 'CleengLogin', '~> 3.0.0'
-
   end
 
   s.xcconfig =  { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
