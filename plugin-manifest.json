@@ -20,7 +20,7 @@
    "screen":false,
    "identifier":"DigicelLoginPluginProduction",
    "ui_builder_support":true,
-   "dependency_name":"DigicelLoginPluginProduction",
+   "dependency_name":"DigicelLoginPlugin",
    "dependency_version":"0.0.1",
    "whitelisted_account_ids":[
       "5af949534da8f300080050f9"
