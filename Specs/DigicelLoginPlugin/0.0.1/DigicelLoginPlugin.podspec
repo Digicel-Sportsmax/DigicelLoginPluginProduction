@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                = 'DigicelLoginPluginProduction'
+  s.name                = 'DigicelLoginPlugin'
   s.version             = '0.0.1'
   s.summary             = 'A plugin for Digicel login & subscription for Zapp iOS (V2.0.0)'
   s.description         = 'Plugin to make login & subscription with DigiCel for Zapp iOS'
